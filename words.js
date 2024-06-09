@@ -1,122 +1,122 @@
 let words = [
   {
-    word: "mountains",
-    hint: "Large natural elevations of the earth's surface rising abruptly from the surrounding level.",
+    word: "holiday",
+    hint: "A special day of celebration or a period of time when you don't have to go to work or school.",
   },
   {
-    word: "discovery",
-    hint: "The act of finding or learning something for the first time.",
+    word: "kitchen",
+    hint: "A room where you cook and prepare food.",
   },
   {
-    word: "hilarious",
-    hint: "Extremely funny, causing a lot of laughter.",
+    word: "festival",
+    hint: "A series of events, performances, or activities often held to celebrate something.",
   },
   {
-    word: "generosity",
-    hint: "The quality of being kind and generous.",
-  },
-  {
-    word: "education",
-    hint: "The process of receiving or giving systematic instruction, especially at a school or university.",
-  },
-  {
-    word: "submarine",
-    hint: "A watercraft capable of independent operation underwater.",
-  },
-  {
-    word: "fantastic",
-    hint: "Extraordinarily good or attractive.",
-  },
-  {
-    word: "meditation",
-    hint: "The practice of focusing your mind for a period of time, often for relaxation or spiritual purposes.",
-  },
-  {
-    word: "chemistry",
-    hint: "The branch of science that deals with the identification of the substances of which matter is composed.",
-  },
-  {
-    word: "happiness",
-    hint: "The state of being happy.",
+    word: "library",
+    hint: "A place where books, magazines, and other materials are available for people to read, borrow, or study.",
   },
   {
     word: "adventure",
-    hint: "An unusual and exciting or daring experience.",
+    hint: "An exciting or unusual experience, often involving some risk or unknown outcome.",
   },
   {
-    word: "knowledge",
-    hint: "Facts, information, and skills acquired by a person through experience or education.",
+    word: "bicycle",
+    hint: "A vehicle with two wheels that you ride by pushing pedals with your feet.",
   },
   {
-    word: "challenge",
-    hint: "A call to take part in a contest or competition, especially a duel.",
+    word: "blanket",
+    hint: "A large piece of cloth used to cover yourself and keep warm.",
   },
   {
-    word: "excellent",
-    hint: "Extremely good; outstanding.",
+    word: "hospital",
+    hint: "A place where sick or injured people are given medical treatment.",
   },
   {
-    word: "memorable",
-    hint: "Worth remembering or easily remembered, especially because of being special or unusual.",
+    word: "picture",
+    hint: "An image or photograph, often displayed in a frame or on a screen.",
   },
   {
-    word: "creativity",
-    hint: "The use of imagination or original ideas to create something; inventiveness.",
+    word: "morning",
+    hint: "The early part of the day, before noon.",
   },
   {
-    word: "algorithm",
-    hint: "A process or set of rules to be followed in calculations or other problem-solving operations.",
+    word: "airport",
+    hint: "A place where airplanes take off and land, and where passengers get on and off planes.",
   },
   {
-    word: "dedicated",
-    hint: "Devoted to a task or purpose; having single-minded loyalty or integrity.",
+    word: "student",
+    hint: "A person who is studying at a school, college, or university.",
   },
   {
-    word: "important",
-    hint: "Of great significance or value; likely to have a profound effect on success, survival, or well-being.",
+    word: "weather",
+    hint: "The condition of the atmosphere at a particular place and time, such as sunny, rainy, or cold.",
   },
   {
-    word: "intention",
-    hint: "A thing intended; an aim or plan.",
+    word: "history",
+    hint: "The study of past events, particularly in human affairs.",
   },
   {
-    word: "persistence",
-    hint: "Firm or obstinate continuance in a course of action in spite of difficulty or opposition.",
+    word: "dessert",
+    hint: "A sweet course typically eaten at the end of a meal.",
   },
   {
-    word: "admission",
-    hint: "The process or fact of entering or being allowed to enter a place or organization.",
+    word: "teacher",
+    hint: "A person who helps students learn, usually at a school.",
   },
   {
-    word: "vegetable",
-    hint: "A plant or part of a plant used as food, such as a cabbage, potato, turnip, or bean.",
+    word: "science",
+    hint: "The study of the natural world through observation and experiment.",
   },
   {
-    word: "decoration",
-    hint: "The process or art of decorating or adorning something.",
+    word: "internet",
+    hint: "A global network connecting millions of computers, allowing the exchange of information.",
   },
   {
-    word: "furniture",
-    hint: "Large movable equipment, such as tables and chairs, used to make a house, office, or other space suitable for living or working.",
+    word: "cinema",
+    hint: "A place where you go to watch movies.",
   },
   {
-    word: "celebrate",
-    hint: "Acknowledge a significant or happy day or event with a social gathering or enjoyable activity.",
+    word: "guitar",
+    hint: "A musical instrument with strings that you play by plucking or strumming.",
   },
   {
-    word: "necessary",
-    hint: "Required to be done, achieved, or present; needed; essential.",
+    word: "dolphin",
+    hint: "A highly intelligent sea mammal known for its playful behavior and friendly nature.",
   },
   {
-    word: "operation",
-    hint: "The fact or condition of functioning or being active.",
+    word: "pencil",
+    hint: "A tool for writing or drawing, typically made of wood and containing a thin stick of graphite.",
   },
   {
-    word: "ambitious",
-    hint: "Having or showing a strong desire and determination to succeed.",
+    word: "island",
+    hint: "A piece of land surrounded by water.",
   },
   {
-    word: "nutrition",
-    hint: "The process of providing or obtaining the food necessary for health and growth.",
+    word: "elephant",
+    hint: "A large, gray mammal with a trunk, known for its intelligence and memory.",
+  },
+  {
+    word: "museum",
+    hint: "A building where objects of historical, scientific, artistic, or cultural interest are kept and displayed.",
+  },
+  {
+    word: "holiday",
+    hint: "A special day or period for rest and celebration, often when you do not work.",
+  },
+  {
+    word: "country",
+    hint: "A nation with its own government and territory.",
+  },
+  {
+    word: "bedroom",
+    hint: "A room in a house where you sleep.",
+  },
+  {
+    word: "vacation",
+    hint: "A period of time when you travel and stay away from home for relaxation and enjoyment.",
+  },
+  {
+    word: "friends",
+    hint: "People you like and enjoy being with.",
   },
 ];

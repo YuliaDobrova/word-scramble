@@ -8,15 +8,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* padding: 0 10px; */
-  /* opacity: 0.5; */
   background: rgba(83, 114, 240, 0.75);
-  /* background: url(./1000_F_423684477_WsWoUCeG0ZSepptBC3dGd6PuUzk1YKiu.jpg); */
-  /* background-image: url(./1000_F_423684477_WsWoUCeG0ZSepptBC3dGd6PuUzk1YKiu.jpg); */
 }
 
 .wrapper {
-  /* overflow: hidden; */
   position: relative;
   width: 100vw;
   height: 100vh;
@@ -32,7 +27,7 @@ body {
   width: 100%;
   height: 100%;
   opacity: 0.1;
-  background-image: url("./1000_F_423684477_WsWoUCeG0ZSepptBC3dGd6PuUzk1YKiu.jpg");
+  background-image: url("./images/bg.jpg");
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: cover;

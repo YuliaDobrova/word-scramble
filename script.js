@@ -7,14 +7,12 @@ const refreshBtn = document.querySelector(".refresh-word");
 const checkBtn = document.querySelector(".check-word");
 
 let correctWord, timer;
-console.log("correctWord0", correctWord);
 
 const gameTimer = (maxTime) => {
   clearInterval(timer);
   timer = setInterval(() => {
     if (maxTime > 0) {
       maxTime--;
-      console.log("correctWord2", correctWord);
       return (timeText.innerText = maxTime);
     }
     alert(`Time's up! ${correctWord.toUpperCase()} was the correct word.`);
@@ -26,16 +24,13 @@ const startGame = () => {
   gameTimer(30);
   let randomWord = words[Math.floor(Math.random() * words.length)];
   wordArray = randomWord.word.split("");
-  console.log("wordArray", wordArray);
   for (let i = wordArray.length - 1; i > 0; i--) {
     let j = Math.floor(Math.random() * (i + 1));
     [wordArray[i], wordArray[j]] = [wordArray[j], wordArray[i]];
   }
-  console.log("randomWord", randomWord);
   wordText.innerText = wordArray.join("");
   hintText.innerText = randomWord.hint;
   correctWord = randomWord.word.toLowerCase();
-  console.log("correctWord1", correctWord);
   inputField.value = "";
 };
 
