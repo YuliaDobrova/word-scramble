@@ -35,11 +35,12 @@ const startGame = () => {
 };
 
 const checkWord = () => {
-  let userWord = inputField.value.toLowerCase();
+  let userWord = inputField.value.toLowerCase().trim();
+  console.log("userWord", userWord);
   if (!userWord) return alert("Please enter the word to check.");
   if (userWord !== correctWord)
     return alert(`Oops! ${userWord} is not the correct word.`);
-  alert(`Yey! ${correctWord.toUpperCase()} is the correct word!`);
+  alert(`Yeah! ${correctWord.toUpperCase()} is the correct word!`);
   startGame();
 };
 
